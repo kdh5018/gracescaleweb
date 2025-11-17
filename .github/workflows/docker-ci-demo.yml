@@ -10,7 +10,7 @@ on:
       - 'v*.*.*'
 
 env:
-  DOCKER_IMAGE_NAME: kdh5018/nodejs-ci
+  DOCKER_IMAGE_NAME: kdh5018/gracescaleweb
 
 jobs:
   push:
